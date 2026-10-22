@@ -7,7 +7,7 @@ The project consists of three repositories:
 | Repository | Description |
 |------------|-------------|
 | **fyp-bantuanku** | React Native mobile application for discovering government assistance, checking potential eligibility, and preparing applications. |
-| **str-mock-web** | Mock Sumbangan Tunai Rahmah (STR) portal with REST APIs for simulating government aid applications. |
+| **str-mock-web** | Mock Sumbangan Tunai Rahmah (STR) portal with REST APIs for simulating government aid applications. **Prod: https://str-mock-api.bantuanku-dev.workers.dev/** |
 | **bwe-mock-web** | Mock Bantuan Warga Emas (BWE) portal with REST APIs for simulating elderly assistance applications. |
 
 ## Disclaimer
