@@ -6,7 +6,8 @@ The project consists of three repositories:
 ## Repositories
 | Repository | Description |
 |------------|-------------|
-| **fyp-bantuanku** | React Native mobile application for discovering government assistance, checking potential eligibility, and preparing applications. <br><br> ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-yellow?style=plastic) |
+| **fyp-bantuanku** | React Native mobile application for discovering government assistance, checking potential eligibility, and preparing applications. <br><br> ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-yellow?style=plastic) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/sevenpluseight/fyp-bantuanku/ci.yml?style=plastic)
+ |
 | **str-mock-web** | Mock Sumbangan Tunai Rahmah (STR) portal with REST APIs for simulating government aid applications. <br><br> **Prod: [STR Mock Web (Live)](https://str-mock-api.bantuanku-dev.workers.dev/)** <br> Last Updated: 3 Nov 2026 <br><br> ![Status](https://img.shields.io/badge/Status-MAINTAINED-blue?style=plastic)|
 | **jkm-mock-web** | Mock JKM portal with REST APIs for simulating elderly assistance applications. <br><br> **Prod: [JKM Mock Web (Live)](https://jkm-mock-api.bantuanku-dev.workers.dev/)** <br> Last Updated: 1 Nov 2026 <br><br> ![Status](https://img.shields.io/badge/Status-MAINTAINED-blue?style=plastic)|
 
